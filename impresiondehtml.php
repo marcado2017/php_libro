@@ -3,18 +3,16 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title></title>
+	<title>Impresion de html</title>
 	<link rel="stylesheet" href="">
 </head>
 <body>
-	<h3>Qué versión de php utilizo</h3>
+	<h1>Mostrando texto de php</h1>
+	PHP te esta diciendo 
 	<br>
 	<br>
 	<?php 
-		phpinfo()
+	echo "<i>Bienvenido</i><br>";
 	 ?>
-	 <img src="images/brand.gif" alt="">
-
-
 </body>
 </html>
