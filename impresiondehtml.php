@@ -13,6 +13,9 @@
 	<br>
 	<?php 
 	echo "<i>Bienvenido</i><br>";
+	echo "<u>a</u><br>";
+	echo "<b> PHP</b>";
 	 ?>
+	 <h2></h2>
 </body>
 </html>
